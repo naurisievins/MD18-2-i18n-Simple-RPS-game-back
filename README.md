@@ -1,4 +1,4 @@
-# Blog app backend + MySQL
+# Rock Paper Scissors game backend for MySQL
 
 <b>Run MySQL in Docker:</b>
 
